@@ -32,7 +32,7 @@ Export: Exports the generated wordlist directly to a .txt file.
 
 ## 🖥️ Installation and Setup:
 
-###Prerequisites:
+### Prerequisites:
 You need Python installed on your system (Python 3.6+ is recommended).
 
 ### Steps:
