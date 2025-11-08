@@ -18,16 +18,16 @@ The Password Strength Analyzer and Custom Wordlist Generator is a Python-based d
 
 ## ✨ Features: 
 
-**GUI Interface :**  Easy-to-use tabbed interface built with Tkinter.
-**Modern Strength Analysis :**  Uses the powerful zxcvbn library (developed by Dropbox) for entropy calculation and pattern matching.
-**Contextual Analysis :**  Allows input of personal details (user inputs) to see how easily a password can be guessed if the attacker has that context.
-**Custom Wordlist Generation :**  Takes user inputs (name, date, pet) and generates a large dictionary of high-probability passwords.
-**Pattern Generation :**  Automatically includes:
-**Case variations**  (e.g., John, john, JOHN).
-**Leetspeak substitutions**  (e.g., s -> 5, e -> 3).
-**Common date and year formats**  (e.g., MMDD, DDMMYY, YYYY).
-**Year appending for a configurable range**  (e.g., password2023).
-**Export :**  Exports the generated wordlist directly to a .txt file.
+* **GUI Interface :**  Easy-to-use tabbed interface built with Tkinter.        
+* **Modern Strength Analysis :**  Uses the powerful zxcvbn library (developed by Dropbox) for entropy calculation and pattern matching.              
+* **Contextual Analysis :**  Allows input of personal details (user inputs) to see how easily a password can be guessed if the attacker has that context.                  
+* **Custom Wordlist Generation :**  Takes user inputs (name, date, pet) and generates a large dictionary of high-probability passwords.                 
+* **Pattern Generation :**  Automatically includes:                 
+* **Case variations**  (e.g., John, john, JOHN).               
+* **Leetspeak substitutions**  (e.g., s -> 5, e -> 3).                    
+* **Common date and year formats**  (e.g., MMDD, DDMMYY, YYYY).             
+* **Year appending for a configurable range**  (e.g., password2023).            
+* **Export :**  Exports the generated wordlist directly to a .txt file.             
 
 ---
 
