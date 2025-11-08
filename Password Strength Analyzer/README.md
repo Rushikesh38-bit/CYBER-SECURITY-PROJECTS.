@@ -59,9 +59,11 @@ You need Python installed on your system (Python 3.6+ is recommended).
 
 
 **1.	Password Analysis Tab :**       
-This tab evaluates the strength of a specific password.       
+This tab evaluates the strength of a specific password.     
+
 Enter the password in the Enter Password field. Use the Show checkbox to toggle visibility.
 Optionally, enter known personal information (like the user's name or birthdate) in the User Inputs field. This helps zxcvbn accurately gauge security risk against social engineering attacks.           
+
 **Click Analyze Password.**          
 The results section will display the Score (0-4), Estimated Crack Time, and Feedback/Suggestions.
 
@@ -69,9 +71,13 @@ The results section will display the Score (0-4), Estimated Crack Time, and Feed
 
 **2.	Wordlist Generation Tab :**                 
 This tab creates a highly targeted dictionary file.       
+
 **Input Personal Details :**  Fill in the Target Name, Date (YYYY-MM-DD), and Pet Name fields. At least one field is required.         
+
 **Set Years Back to Append :**  Define the range of recent years (plus the next two) to append to base words (default is 10 years).       
-**Select Output File :**  Use the Browse button to choose the name and location for the output .txt file.         
+
+**Select Output File :**  Use the Browse button to choose the name and location for the output .txt file.      
+
 **Click Generate Wordlist & Export.**           
 The Generation Report will confirm the save location and the total number of unique words generated.
 
