@@ -10,9 +10,9 @@ The Password Strength Analyzer and Custom Wordlist Generator is a Python-based d
 
 ## 🛠 This tool serves two primary functions:
 
-**Analyze Password Strength :**  Provides a detailed, modern analysis (0-4 score) of a password's security, including estimated crack time and specific suggestions.
+* **Analyze Password Strength :**  Provides a detailed, modern analysis (0-4 score) of a password's security, including estimated crack time and specific suggestions.
 
-**Generate Targeted Wordlists :**  Creates highly specific, context-aware wordlists based on personal inputs (Name, Date, Pet) with common permutations (leetspeak, date formats, year appending). This is useful for security testing, auditing, or understanding how easily personal information can lead to guessed passwords.
+* **Generate Targeted Wordlists :**  Creates highly specific, context-aware wordlists based on personal inputs (Name, Date, Pet) with common permutations (leetspeak, date formats, year appending). This is useful for security testing, auditing, or understanding how easily personal information can lead to guessed passwords.
 
 ---
 
@@ -64,7 +64,7 @@ This tab evaluates the strength of a specific password.
 Enter the password in the Enter Password field. Use the Show checkbox to toggle visibility.
 Optionally, enter known personal information (like the user's name or birthdate) in the User Inputs field. This helps zxcvbn accurately gauge security risk against social engineering attacks.           
 
-**Click Analyze Password.**          
+* **Click Analyze Password.**          
 The results section will display the Score (0-4), Estimated Crack Time, and Feedback/Suggestions.
 
 
@@ -78,7 +78,7 @@ This tab creates a highly targeted dictionary file.
 
 **Select Output File :**  Use the Browse button to choose the name and location for the output .txt file.      
 
-**Click Generate Wordlist & Export.**           
+* **Click Generate Wordlist & Export.**           
 The Generation Report will confirm the save location and the total number of unique words generated.
 
 ---
