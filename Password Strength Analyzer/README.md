@@ -70,7 +70,7 @@ The results section will display the Score (0-4), Estimated Crack Time, and Feed
 This tab creates a highly targeted dictionary file.
 
 **Input Personal Details:** Fill in the Target Name, Date (YYYY-MM-DD), and Pet Name fields. At least one field is required.         
-**Set Years Back to Append:** Define the range of recent years (plus the next two) to append to base words (default is 10 years).
+**Set Years Back to Append:** Define the range of recent years (plus the next two) to append to base words (default is 10 years).       
 **Select Output File:** Use the Browse button to choose the name and location for the output .txt file.
 
 **Click Generate Wordlist & Export.**
