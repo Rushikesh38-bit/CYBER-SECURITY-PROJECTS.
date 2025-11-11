@@ -40,7 +40,7 @@ pip install Pillow stegano
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [Your-Repository-Link]
+    git clone [Repository-Link]
     cd Data-Hider
     ```
 
